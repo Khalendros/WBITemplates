@@ -11,6 +11,7 @@ STORAGE_TEMPLATE
 	{
 		name = SpecializedParts
 		amount = 0
-		maxAmount = 1190
+		maxAmount = 10000
+		isTweakable = true
 	}
 }
